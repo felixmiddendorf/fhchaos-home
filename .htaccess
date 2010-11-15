@@ -1,0 +1,4 @@
+<FilesMatch (README.markdown|MITLICENSE)$>
+Order Allow,Deny
+Deny from all
+</FilesMatch>
