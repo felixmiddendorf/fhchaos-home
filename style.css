@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+	font-family: Palatino, Georgia, Times, serif;
+	text-align: center;
+	padding: 5px 0 5px 0;
+	background-color: #4B0082;
+}
+
+#container {
+	margin: auto;
+	text-align: left;
+	max-width: 550px;
+	font-size: 12pt;
+	line-height: 18pt;
+	color: #EEE;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+}
+
+a {
+	background-color: #000;
+	color: #AAA;
+	text-decoration: none;
+	padding: 0 1px 0 1px;
+}
+
+li {
+	list-style-type: square;
+}
+
+#footer {
+	font-size: 8pt;
+}
+
+#footer a {
+	background-color: transparent;
+}
