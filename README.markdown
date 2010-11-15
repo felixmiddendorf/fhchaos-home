@@ -2,9 +2,9 @@
 
 ## What is this?
 This is the page that will be displayed when you visit [fhchaos][1], Felix' and
-Hans' little server. Sometimes people end up there by accident, because the
-server is configured to respond to every subdomain that is not configured
-otherwise, e.g. [http://notconfigured.diskurswelt.de/][2].
+Hans' little server. Sometimes people end up there by accident, because they
+mistyped a URL and the server is configured to respond to every subdomain that
+is not explicitly configured, e.g. [http://notconfigured.diskurswelt.de/][2].
 
 ## Usage
 If you happen to need a similar page on your server, feel free to use this

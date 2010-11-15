@@ -26,7 +26,7 @@ echo '<?xml version="1.0" encoding="utf-8" ?>', "\n";
 <body>
   <div id="container">
     <h1>Welcome anonymous@fhchaos!</h1>
-    <p>This is fhchaos, <a href="http://www.felixmiddendorf.eu/">Felix'</a> and <a href="http://www.sperker.de">Hans'</a> little server that just runs and runs and runs. Thanks to the fine folks at <a href="http://www.debian.org/" rel="nofollow">Debian</a>.</p>
+    <p>This is fhchaos, <a href="http://www.felixmiddendorf.eu/">Felix'</a> and <a href="http://www.sperker.de">Hans'</a> little server that just runs and runs and runs. Thanks to the fine folks at <a rel="nofollow" href="http://www.debian.org/">Debian</a>.</p>
 <?php if(isSet($links) && (count($links) > 0)): ?>
     <h2>Where am I?</h2>
     <p>You probably did not want to go to this site, right? Try one of these instead:</p>
@@ -39,6 +39,6 @@ echo '<?xml version="1.0" encoding="utf-8" ?>', "\n";
 endif;
 ?>
   </div>
-  <div id="footer"><a href="http://www.felixmiddendorf.eu/contact/#imprint">Impressum</a></div>
+  <div id="footer"><a rel="nofollow" href="http://www.felixmiddendorf.eu/contact/#imprint">Impressum</a></div>
 </body>
 </html>
