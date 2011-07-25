@@ -4,7 +4,7 @@
  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://chaos.diskurswelt.de/</loc>
+    <loc>https://chaos.diskurswelt.de/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>

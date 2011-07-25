@@ -1,4 +1,4 @@
 User Agent: *
 Allow: /
 Disallow: /phpmyadmin/
-Sitemap: http://chaos.diskurswelt.de/sitemap.xml
+Sitemap: https://chaos.diskurswelt.de/sitemap.xml
